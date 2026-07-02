@@ -5,15 +5,23 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027) | CGPA: 8.63
+🏫 B.Tech in **Artificial Intelligence & Data Science** (2023–2027) | **CGPA: 8.63**
 
-💻 Proficient in C, C++, MERN stack, SQL/NoSQL databases, and Python.
+💻 Proficient in **C, C++, Python, MERN Stack, SQL, and NoSQL Databases**.
 
-🌱 Currently learning AI, Machine Learning, Deep Learning.
+👨‍💻 Explore my portfolio: **[Click Here](https://shrushti7823.github.io/My_Portfolio/)**
 
-💼 Software Developer Intern at Humming Byte Technologies Pvt. Ltd.
+📧 Reach me at: **shrushtihandge7823@gmail.com**
 
-📍 Nashik, India
+🌱 Currently working on **Web Development, Artificial Intelligence, and Machine Learning**.
+
+💼 Software Developer Intern at **Humming Byte Technologies Pvt. Ltd.**
+
+🌐 Explore all of my projects on **GitHub**.
+
+📄 View my **Resume**: **[Click Here](YOUR_RESUME_LINK)**
+
+📍 Based in **Nashik, India**.
 
 ---
 
