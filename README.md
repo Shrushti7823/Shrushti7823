@@ -39,8 +39,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,flutter,fastapi,mongodb,mysql,flask,firebase,git,github,vscode,canva,figma" />
-**Libraries:** NumPy • Pandas • Matplotlib • Scikit-learn 
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,flutter,fastapi,mongodb,mysql,flask,git,github,vscode,figma,canva,matplotlib,numpy,pandas,sklearn,powerbi" />
 </p>
 
 ---
