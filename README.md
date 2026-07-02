@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shrushti R. Handge</h1>
+<h3 align="center">AI & Data Science Student | Full Stack Developer | AI Enthusiast</h3>
 
-<!--
-**Shrushti7823/Shrushti7823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)
+
+💼 Software Developer Intern at Humming Byte Technologies Pvt. Ltd.
+
+🌱 Currently learning AI, Machine Learning, Deep Learning, Flutter & Firebase.
+
+💡 Passionate about solving real-world problems using AI and Full Stack Development.
+
+🏆 Hackathon Finalist (Top 6) - PVGCOET National Level Hackathon.
+
+📍 Based in Nashik, Maharashtra, India.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shrushti-hand" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shrushtihandge7823@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shrushti7823">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,flutter,firebase,mongodb,mysql,flask,git,github,vscode"/>
+
+</p>
+
+---
+
+## 📊 My Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shrushti7823&show_icons=true&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Shrushti7823&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti7823&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+⭐ *"Learning, Building, and Innovating with AI & Data Science."*
