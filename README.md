@@ -5,17 +5,15 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027)
+🎓 B.Tech in Artificial Intelligence & Data Science (2023–2027) | CGPA: 8.63
+
+💻 Proficient in C, C++, MERN stack, SQL/NoSQL databases, and Python.
+
+🌱 Currently learning AI, Machine Learning, Deep Learning.
 
 💼 Software Developer Intern at Humming Byte Technologies Pvt. Ltd.
 
-🌱 Currently learning AI, Machine Learning, Deep Learning, Flutter & Firebase.
-
-💡 Passionate about solving real-world problems using AI and Full Stack Development.
-
-🏆 Hackathon Finalist (Top 6) - PVGCOET National Level Hackathon.
-
-📍 Based in Nashik, Maharashtra, India.
+📍 Nashik, India
 
 ---
 
