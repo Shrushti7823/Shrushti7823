@@ -95,5 +95,13 @@
 </p>
 
 ---
+## 📊 My Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shrushti7823&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shrushti7823&theme=tokyonight&hide_border=true" />
+</p>
 ⭐ *"Learning, Building, and Innovating with AI & Data Science."*
