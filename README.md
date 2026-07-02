@@ -19,7 +19,7 @@
 
 🌐 Explore all of my projects on **[GitHub](https://github.com/Shrushti7823)**
 
-📄 View my **Resume**: **[Click Here](YOUR_RESUME_LINK)**
+📄 View my **Resume**: **[Click Here]((https://drive.google.com/drive/u/0/home))**
 
 📍 Based in **Nashik, India**.
 
