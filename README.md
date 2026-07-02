@@ -39,7 +39,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,flutter,firebase,mongodb,mysql,flask,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,flutter,fastapi,mongodb,mysql,flask,git,github,vscode,canva,figma,matplotlib,numpy,pndas,scikit-learn,power bi"/>
 
 </p>
 
