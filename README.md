@@ -17,7 +17,7 @@
 
 💼 Software Developer Intern at **Humming Byte Technologies Pvt. Ltd.**
 
-🌐 Explore all of my projects on **GitHub**.
+🌐 Explore all of my projects on **[GitHub](https://github.com/Shrushti7823)**
 
 📄 View my **Resume**: **[Click Here](YOUR_RESUME_LINK)**
 
