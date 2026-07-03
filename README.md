@@ -78,7 +78,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shrushti7823&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-2i569pvsk.vercel.app/api/top-langs/?username=Shrushti7823&layout=compact&theme=tokyonight" />
 
 <br><br>
 
