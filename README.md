@@ -21,7 +21,7 @@
 
 📄 View my **Resume**: **[Click Here](https://drive.google.com/drive/u/0/home)**
 
-📍 Based in **Nashik, India**.
+📍 **Nashik, India**.
 
 ---
 
