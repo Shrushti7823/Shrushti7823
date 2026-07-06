@@ -9,6 +9,8 @@
 
 💻 Proficient in **C, C++, Python, MERN Stack, SQL, and NoSQL Databases**.
 
+🌱 Always learning new technologies
+
 👨‍💻 Explore my portfolio: **[Click Here](https://shrushti7823.github.io/My_Portfolio/)**
 
 📧 Reach me at: **shrushtihandge7823@gmail.com**
