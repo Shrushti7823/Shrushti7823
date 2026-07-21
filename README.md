@@ -7,7 +7,7 @@
 
 🏫 B.Tech in **Artificial Intelligence & Data Science** (2023–2027) | **CGPA: 8.63**
 
-💻 Proficient in **C, C++, Python, SQL, and NoSQL Databases, Data Analysis**.
+💻 Proficient in **C, C++, Python, SQL and NoSQL Databases, Data Analysis**.
 
 🌱 Always learning new technologies
 
