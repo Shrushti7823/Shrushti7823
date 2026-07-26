@@ -93,6 +93,17 @@
 <img src="https://streak-stats.demolab.com?user=Shrushti7823&theme=tokyonight"/>
 
 </p>
+
+
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti7823&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+
+
 <p align="center">
   <img src="https://github-readme-stats-2i569pvsk.vercel.app/api/top-langs/?username=ShrushtiHandge&layout=compact&theme=tokyonight" />
 </p>
