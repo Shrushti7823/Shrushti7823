@@ -94,7 +94,13 @@
 
 </p>
 
+---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrushti7823&theme=tokyo-night&hide_border=true&area=true" alt="Shrushti7823 Contribution Graph"/>
+</p>
 
 ## 💻 Most Used Languages
 
