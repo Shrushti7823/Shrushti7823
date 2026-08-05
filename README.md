@@ -102,15 +102,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrushti7823&theme=tokyo-night&hide_border=true&area=true" alt="Shrushti7823 Contribution Graph"/>
 </p>
 
+---
+
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrushti7823&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti7823&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
+
+
+---
+
+## 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats-2i569pvsk.vercel.app/api/top-langs/?username=ShrushtiHandge&layout=compact&theme=tokyonight" />
 </p>
-
 ⭐ *"Learning, Building, and Innovating with AI & Data Science."*
